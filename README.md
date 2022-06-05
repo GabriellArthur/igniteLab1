@@ -6,6 +6,7 @@
 - Conhecimento em Front-End [REACTJS](https://www.rocketseat.com.br/)
 - Conhecimento em Back-End [NODEJS](https://www.rocketseat.com.br/)
 - [Fundamentos de MicroServices](https://www.youtube.com/watch?v=wcz_eDi2iIk)
+    - [REPO-MICRO_SERVICES](https://github.com/GabriellArthur/NodeJS-Microsservicos)
 - [Fundamentos de GraphQL](https://www.youtube.com/watch?v=6SZOPKs9SUg)
 
 # O que será explorado
