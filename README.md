@@ -8,6 +8,7 @@
 - [Fundamentos de MicroServices](https://www.youtube.com/watch?v=wcz_eDi2iIk)
     - [REPO-MICRO_SERVICES](https://github.com/GabriellArthur/NodeJS-Microsservicos)
 - [Fundamentos de GraphQL](https://www.youtube.com/watch?v=6SZOPKs9SUg)
+    - [REPO-GRAPHQL](https://github.com/GabriellArthur/NodeJS-ReactJS-GraphQL)
 
 # O que será explorado
 
